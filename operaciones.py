@@ -1,4 +1,4 @@
-#crea una clase con dos funciones para las operaciones
+# 1- crea una clase con dos funciones para las operaciones
 
 class Operaciones:
     def __init__(self):

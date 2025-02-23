@@ -1,3 +1,4 @@
+#3- importa pytest, importa las clases de los demas archivos, haz el testeo
 import pytest
 from operaciones import Operaciones
 from funciones_extra import FuncionesExtra

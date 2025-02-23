@@ -1,3 +1,4 @@
+#2 importa la clase Operaciones, agrega otra que herede Operaciones,utiliza super y agrega dos funciones mas, multiplicar y dividir
 from operaciones import Operaciones
 
 class FuncionesExtra(Operaciones):
